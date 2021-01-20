@@ -1,0 +1,1 @@
+print("fancy work hard")
