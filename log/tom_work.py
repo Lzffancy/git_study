@@ -1,0 +1,1 @@
+print("tom work hard!!!!")
